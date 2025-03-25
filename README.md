@@ -1,6 +1,7 @@
 ## Hi there 👋
-Focused on learning the professional skills for a career in this fascinating industry.\
-✨*With curiosity and practice, anyone can start exploring the world of Data Science.*✨
+Focused on learning the professional skills for a career in this Data Science.\
+\
+✨ *With curiosity and practice, anyone can start exploring the world of Data Science. *✨
 <!--
 **LeonardStepto/LeonardStepto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
